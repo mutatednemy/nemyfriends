@@ -1,0 +1,44 @@
+body {
+  background-image: url(rsl.bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+  color: cyan;
+}
+img {
+  text-align: left;
+  width: 325px;
+  height: 500px;
+}
+
+hr {
+  width: 250px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+ol {
+  color: white;
+  list-style-type: disc;
+}
